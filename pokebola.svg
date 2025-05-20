@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Parte superior roja -->
+  <path d="M32 2
+           A30 30 0 0 1 62 32
+           H2
+           A30 30 0 0 1 32 2Z" fill="#CC0000" stroke="black" stroke-width="2"></path>
+
+  <!-- Parte inferior blanca -->
+  <path d="M2 32
+           H62
+           A30 30 0 0 1 32 62
+           A30 30 0 0 1 2 32Z" fill="white" stroke="black" stroke-width="2"></path>
+
+  <!-- Círculo central blanco con borde negro -->
+  <circle cx="32" cy="32" r="8" fill="white" stroke="black" stroke-width="3"></circle>
+
+  <!-- Línea negra del medio -->
+  <line x1="2" y1="32" x2="62" y2="32" stroke="black" stroke-width="2"></line>
+</svg>
